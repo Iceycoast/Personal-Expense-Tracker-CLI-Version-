@@ -30,7 +30,7 @@ This project helps you learn Object-Oriented Programming, file handling using JS
 
 1. Clone this repository:
    git clone https://github.com/Iceycoast/Personal-Expense-Tracker-CLI-Version-.git
-   cd expense-tracker
+   cd Personal-Expense-Tracker-CLI-Version-
 
 2. Run the script:
    python main.py
